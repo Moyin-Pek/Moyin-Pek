@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'm a cognitive psychology student interested in computational neural models.
+## Happy to hear anything inspirative.
 <!--
 **Moyin-Pek/Moyin-Pek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
